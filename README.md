@@ -9,7 +9,7 @@
 
 - 🔭 J'étudie actuellement à **Valenciennes**
 
-- 🌱 J'apprend actuellement **NextJS**
+- 🌱 J'apprend actuellement **VueJS, Nuxt et Unity**
 
 - 💬 Je peux vous aider pour **Le développement web front-end**
 
