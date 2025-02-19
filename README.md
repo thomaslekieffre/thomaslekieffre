@@ -15,15 +15,15 @@
 - Intégration de bases de données **Supabase / Firebase**
 - Authentification **Clerk**
 
-### 🔹 Créateur de contenu - Ici Thomas / CodeMastery _(2024 - Présent)_
-- Rédaction et production de tutoriels techniques (Vue.js, Nuxt.js, React...)
-- Création de vidéos pédagogiques pour aider les développeurs juniors
-- Créations de vidéos divertissantes et technique sur la chaîne Ici Thomas
-
 ### 🔹 Développeur de jeux - Indie _(2022 - Présent)_
 - Développement de jeux en **Unity (C#)** et exploration de concepts IA appliqués au gaming
 - Conception d’un moteur d’IA jouant à **Snake** avec du **Deep Q-Learning**
 - Développement de jeu utilisant RPG Maker pour explorer les concepts du game design
+
+### 🔹 Créateur de contenu - Ici Thomas / CodeMastery _(2024 - Présent)_
+- Rédaction et production de tutoriels techniques (Vue.js, Nuxt.js, React...)
+- Création de vidéos pédagogiques pour aider les développeurs juniors
+- Créations de vidéos divertissantes et technique sur la chaîne Ici Thomas
 
 ---
 
