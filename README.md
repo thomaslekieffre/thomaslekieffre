@@ -72,10 +72,6 @@
 - **Suivi de collection** avec **base de données centralisée**  
 - Notifications automatiques pour les pièces manquantes et **intégration communautaire**
 
-### 🔹 **ChessGame** - *Jeu d'échecs réinventé* _(2024 - Présent)_
-- Modes de jeu innovants et **classements dynamiques**  
-- Intégration d’un **Battle Pass** et d’une **monétisation freemium**  
-
 ### 🔹 **CodeMastery** - *Plateforme d'apprentissage pour développeurs* _(2024 - Présent)_
 - Formation interactive et **accompagnement des baby devs**  
 - Contenus éducatifs sous forme de vidéos et tutoriels pratiques  
