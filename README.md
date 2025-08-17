@@ -1,5 +1,5 @@
-# 💼 Thomas Lekieffre - 16 ans | Web, Jeux & IA Builder
-*Dernière mise à jour : 19/02/25 - 20:38*  
+# 💼 Thomas Lekieffre - 17 ans | Web, Jeux & IA Builder
+*Dernière mise à jour : 19/08/25 - 23h04*  
 
 📍 **Valenciennes, France**  
 📧 **thomaslekieffre59.dev@gmail.com**  
