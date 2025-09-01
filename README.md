@@ -81,7 +81,7 @@
 - Formation interactive et **accompagnement des baby devs**  
 - Contenus éducatifs sous forme de vidéos et tutoriels pratiques  
 
-### 🔹 **SpeedCube - Master** - *Plateforme de speedcubing complète * _(2025 - Présent)_
+### 🔹 **SpeedCube - Master** - *Plateforme de speedcubing complète* _(2025 - Présent)_
 -
 -
 
