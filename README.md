@@ -124,7 +124,7 @@ Apprentissage continu du développement informatique principalement à travers l
 ### Plateforme complète dédiée au speedcubing
 **2025 — Aujourd'hui**
 
-[🌐 speedcubemaster.app](https://speedcubemaster.app)
+[speedcubemaster.app](https://speedcubemaster.app)
 
 **Speedcube Master (SCM)** est une plateforme dédiée aux passionnés de speedcubing. Elle regroupe des outils d'entraînement, des fonctionnalités communautaires et différents outils d'analyse autour de la pratique du Rubik's Cube.
 
@@ -139,14 +139,14 @@ Apprentissage continu du développement informatique principalement à travers l
 - Applications **iOS et Android**
 - Internationalisation complète
 - Support des cubes connectés **GAN Bluetooth**
-- 💳 Monétisation freemium avec **Stripe**
+- Monétisation freemium avec **Stripe**
 
 ### 📈 Quelques chiffres
 
-- 👥 **+2 600 utilisateurs**
-- 💻 **+1 000 commits**
-- 👨‍💻 Équipe de **6 personnes**
-- 🚀 Application en production
+- **+2 600 utilisateurs**
+- **+1 000 commits**
+- Équipe de **6 personnes**
+- Application en production
 
 ### 🧰 Stack
 
@@ -154,21 +154,21 @@ Apprentissage continu du développement informatique principalement à travers l
 
 ---
 
-## 🏀 ZoneTactics
+## ZoneTactics
 
 ### Stratégies basket & coaching digital
 **2024 — Aujourd'hui**
 
-[🌐 zone-tactics.vercel.app](https://zone-tactics.vercel.app)
+[zone-tactics.vercel.app](https://zone-tactics.vercel.app)
 
 **ZoneTactics** est un outil permettant aux **coachs et joueurs de basket** de créer, visualiser et analyser leurs tactiques.
 
 ### ✨ Fonctionnalités
 
-- 🏀 Création de tactiques interactives
-- 🎨 Éditeur visuel
-- 📋 Organisation des stratégies
-- 📱 Interface adaptée à une utilisation moderne
+- Création de tactiques interactives
+- Éditeur visuel
+- Organisation des stratégies
+- Interface adaptée à une utilisation moderne
 
 Le projet a bénéficié d'une **refonte en 2026**, avec notamment une migration de **Vercel Blob vers Supabase** et la suppression du système de paiement Stripe.
 
@@ -186,11 +186,10 @@ Le projet a bénéficié d'une **refonte en 2026**, avec notamment une migration
 
 # 🎯 Objectifs
 
-- 🎓 Réussir mon **BTS SIO SLAM** et continuer à progresser grâce à mon alternance chez Keeo.
-- 🚀 Faire évoluer **Speedcube Master** et développer sa communauté.
-- 🌍 Continuer à développer mes projets et expérimenter de nouvelles technologies.
-- 📺 Relancer et développer la chaîne **Ici Thomas**.
-- 🎮 Continuer à créer et expérimenter autour du **jeu vidéo**.
+- Réussir mon **BTS SIO SLAM** et continuer à progresser grâce à mon alternance chez Keeo.
+- Faire évoluer **Speedcube Master** et développer sa communauté.
+- Expérimenter de nouvelles technologies et créer de nouveaux projets divers et variés.
+- Relancer et développer la chaîne **Ici Thomas**.
 
 ---
 
@@ -198,18 +197,16 @@ Le projet a bénéficié d'une **refonte en 2026**, avec notamment une migration
 
 Je suis ouvert aux **collaborations, projets et missions freelance**.
 
-- 📧 **Email :** thomas.lekieffredev@gmail.com
-- 🌐 **Portfolio :** [thomaslekieffre.vercel.app](https://thomaslekieffre.vercel.app)
-- 💼 **LinkedIn :** [Thomas Lekieffre](https://www.linkedin.com/in/thomas-lekieffre-988224319/)
-- 🐙 **GitHub :** [@thomaslekieffre](https://github.com/thomaslekieffre)
-- 📺 **YouTube :** [Ici Thomas](https://www.youtube.com/@icithomas)
-- 𝕏 **X :** [@thomasdev59](https://x.com/thomasdev59)
+- **Email :** thomas.lekieffredev@gmail.com
+- **Portfolio :** [thomaslekieffre.vercel.app](https://thomaslekieffre.vercel.app)
+- **LinkedIn :** [Thomas Lekieffre](https://www.linkedin.com/in/thomas-lekieffre-988224319/)
+- **GitHub :** [@thomaslekieffre](https://github.com/thomaslekieffre)
+- **YouTube :** [Ici Thomas](https://www.youtube.com/@icithomas)
+- **X :** [@thomasdev59](https://x.com/thomasdev59)
 
 ---
 
 # 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomaslekieffre&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomaslekieffre&theme=onedark&hide_border=false)
 
