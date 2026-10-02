@@ -8,8 +8,6 @@ Je développe principalement des applications web et mobiles avec **TypeScript**
 
 J'aime transformer des idées en **projets concrets, utilisables et évolutifs**, de la conception jusqu'au déploiement.
 
----
-
 ## 🚀 À propos de moi
 
 - Développeur **Fullstack** avec ma micro-entreprise **LTech Development**
@@ -17,8 +15,6 @@ J'aime transformer des idées en **projets concrets, utilisables et évolutifs**
 - Spécialisé dans le développement **web et mobile**
 - Créateur de jeux vidéo et passionné de **game design**
 - Joueur de basketball, musique et de speedcubing
-
----
 
 # 💼 Expériences
 
@@ -28,8 +24,6 @@ J'aime transformer des idées en **projets concrets, utilisables et évolutifs**
 Développeur Fullstack en alternance dans le cadre de mon **BTS SIO SLAM**.
 
 > _Cette section sera complétée avec les missions, technologies et réalisations effectuées chez Keeo._
-
----
 
 ## 🔹 Développeur Fullstack Autodidacte (depuis 2020) — LTech Development (depuis 2026)
 **2020 — Aujourd'hui**
@@ -45,20 +39,16 @@ Développement de projets personnels et réalisation de prestations à travers m
 - Déploiement et maintenance de projets en production
 - Utilisation d'outils d'IA comme **Cursor** et **Claude Code** dans mon workflow de développement
 
----
-
 ## 🔹 Développeur de jeux vidéo — Indie
 **2022 — Aujourd'hui**
 
 Développement de prototypes et de jeux vidéo en parallèle de mes projets web.
 
-- 🎮 Développement avec **Unity et C#**
-- 🧩 Prototypage de mécaniques de gameplay
-- 🎨 Exploration du **game design**
-- 🕹️ Expérimentation avec **RPG Maker MZ**
-- 🤖 Exploration de l'IA appliquée aux jeux vidéo
-
----
+- Développement avec **Unity et C#**
+- Prototypage de mécaniques de gameplay
+- Exploration du **game design**
+- Expérimentation avec **RPG Maker MZ**
+- Exploration de l'IA appliquée aux jeux vidéo
 
 ## 🔹 Créateur de contenu
 **2024 — Aujourd'hui**
@@ -68,8 +58,6 @@ Création de contenu autour du développement, de mes projets personnels et de l
 - 📺 [YouTube — Ici Thomas](https://www.youtube.com/@icithomas)
 - 𝕏 [X — @thomasdev59](https://x.com/thomasdev59)
 
----
-
 # 🎓 Formation
 
 ## 🔹 BTS SIO — Option SLAM
@@ -77,14 +65,10 @@ Création de contenu autour du développement, de mes projets personnels et de l
 
 Formation en alternance chez **Keeo**, spécialisée dans le développement d'applications.
 
----
-
 ## 🔹 Bac Général — Mathématiques & NSI
 **Septembre 2023 — Juin 2026**
 
 Obtenu avec mention bien, spécialités **Mathématiques** et **Numérique et Sciences Informatiques**.
-
----
 
 ## 🔹 Autodidacte
 **2020 — Aujourd'hui**
@@ -111,11 +95,8 @@ Apprentissage continu du développement informatique principalement à travers l
 - Go
 - SvelteKit
 
----
-
 # 🛠️ Compétences techniques
 > __En refonte__
----
 
 # 🚀 Projets
 
@@ -152,8 +133,6 @@ Apprentissage continu du développement informatique principalement à travers l
 
 **Next.js · TypeScript · Supabase · Clerk · Stripe · Coolify · OVH**
 
----
-
 ## ZoneTactics
 
 ### Stratégies basket & coaching digital
@@ -176,13 +155,9 @@ Le projet a bénéficié d'une **refonte en 2026**, avec notamment une migration
 
 **Next.js · Supabase · Clerk**
 
----
-
 > 💡 **Plus de projets sont disponibles sur mon [GitHub](https://github.com/thomaslekieffre).**
 >
 > Certains projets ne sont plus maintenus et peuvent être considérés comme obsolètes, mais des démonstrations, captures d'écran et vidéos sont souvent disponibles.
-
----
 
 # 🎯 Objectifs
 
@@ -190,8 +165,6 @@ Le projet a bénéficié d'une **refonte en 2026**, avec notamment une migration
 - Faire évoluer **Speedcube Master** et développer sa communauté.
 - Expérimenter de nouvelles technologies et créer de nouveaux projets divers et variés.
 - Relancer et développer la chaîne **Ici Thomas**.
-
----
 
 # 📫 Me contacter
 
@@ -204,15 +177,11 @@ Je suis ouvert aux **collaborations, projets et missions freelance**.
 - **YouTube :** [Ici Thomas](https://www.youtube.com/@icithomas)
 - **X :** [@thomasdev59](https://x.com/thomasdev59)
 
----
-
 # 📊 GitHub
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomaslekieffre&theme=onedark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslekieffre&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 # ✍️ Random Dev Quote
 
