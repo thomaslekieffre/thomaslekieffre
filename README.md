@@ -75,28 +75,26 @@ Obtenu avec mention bien, spécialités **Mathématiques** et **Numérique et Sc
 
 Apprentissage continu du développement informatique principalement à travers la réalisation de projets personnels et professionnels.
 
-### 📚 Technologies étudiées
-
-- HTML / CSS
-- JavaScript / TypeScript
-- React / Next.js
-- SQL / PostgreSQL
-- Python
-- C#
-- Unity
-- Machine Learning
-- Docker
-- Linux / VPS
-- Git / GitHub
-
-### 🔭 Technologies actuellement en apprentissage
-
-- Rust
-- Go
-- SvelteKit
-
 # 🛠️ Compétences techniques
-> __En refonte__
+
+- Technologies maîtrisée :
+  - HTML / CSS
+  - JavaScript / TypeScript
+  - React / Next.js
+  - SQL / PostgreSQL
+  - Python
+  - C#
+  - Unity
+  - Machine Learning
+  - Docker
+  - Linux / VPS
+  - Git / GitHub
+
+- Technologies actuellement en apprentissage
+  - Rust
+  - Go
+  - SvelteKit
+
 
 # 🚀 Projets
 
