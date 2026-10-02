@@ -1,186 +1,107 @@
-# 👋 Thomas Lekieffre
+<h1 align="center">Thomas Lekieffre</h1>
 
-### Développeur Fullstack · Game Developer · Créateur de projets
+<p align="center">
+  <strong>Développeur Fullstack · Web & Mobile · Game Dev</strong><br />
+  Valenciennes, France
+</p>
 
-Je suis **Thomas Lekieffre**, j'ai 18 ans et je suis développeur autodidacte basé à **Valenciennes, France**.
+<p align="center">
+  <a href="https://thomaslekieffre.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/thomas-lekieffre-988224319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/thomasdev59"><img src="https://img.shields.io/badge/@thomasdev59-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@icithomas"><img src="https://img.shields.io/badge/Ici%20Thomas-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:thomas.lekieffredev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-Je développe principalement des applications web et mobiles avec **TypeScript**, notamment avec **Next.js, React et Supabase**. En parallèle, je m'intéresse au **développement de jeux vidéo**, au **game design** et à la création de produits numériques.
+---
 
-J'aime transformer des idées en **projets concrets, utilisables et évolutifs**, de la conception jusqu'au déploiement.
+## 👋 À propos
 
-## 🚀 À propos de moi
+J'ai 18 ans et je code depuis **2020**, en autodidacte. Je conçois des applications **web et mobiles** de bout en bout — de l'idée au déploiement en production — principalement avec **TypeScript, Next.js, React et Supabase**.
 
-- Développeur **Fullstack** avec ma micro-entreprise **LTech Development**
-- Autodidacte depuis **2020**
-- Spécialisé dans le développement **web et mobile**
-- Créateur de jeux vidéo et passionné de **game design**
-- Joueur de basketball, musique et de speedcubing
+- 🧊 Créateur de **[Speedcube Master](https://speedcubemaster.app)**, plateforme de speedcubing utilisée par **+2 600 personnes**
+- 💼 Développeur Fullstack en alternance chez **[Keeo](https://keeo.fr/)** (BTS SIO SLAM, 2026 — 2028)
+- 🏢 Freelance via ma micro-entreprise **LTech Development**
+- 🎮 Passionné de **game design** : prototypes Unity / C#, jeux navigateur, game jams
+- 🎥 Je partage mes projets sur **[YouTube](https://www.youtube.com/@icithomas)** et **[X](https://x.com/thomasdev59)**
 
-# 💼 Expériences
+## 🚀 Projets phares
 
-## 🔹 Développeur Fullstack — [Keeo](https://keeo.fr/)
-**Septembre 2026 — Aujourd'hui**
+### [Speedcube Master](https://speedcubemaster.app) — plateforme complète de speedcubing
 
-Développeur Fullstack en alternance dans le cadre de mon **BTS SIO SLAM**.
+Timer, base d'algorithmes, module de training, rooms temps réel, challenges, données WCA, cubes connectés GAN Bluetooth, apps **iOS et Android**, i18n complète, freemium avec Stripe.
 
-> _Cette section sera complétée avec les missions, technologies et réalisations effectuées chez Keeo._
+**+2 600 utilisateurs · +1 000 commits · équipe de 6 · en production**
 
-## 🔹 Développeur Fullstack Autodidacte (depuis 2020) — LTech Development (depuis 2026)
-**2020 — Aujourd'hui**
+`Next.js` `TypeScript` `Supabase` `Clerk` `Stripe` `React Native` `Coolify` `OVH`
 
-Développement de projets personnels et réalisation de prestations à travers ma micro-entreprise.
+Autour de la plateforme, en open source :
 
-- Développement d'applications web modernes et performantes
-- Développement d'applications mobiles
-- Conception et gestion de bases de données
-- Intégration de systèmes d'authentification
-- Intégration de systèmes de paiement
-- Développement de fonctionnalités temps réel
-- Déploiement et maintenance de projets en production
-- Utilisation d'outils d'IA comme **Cursor** et **Claude Code** dans mon workflow de développement
+| Projet | Description |
+| --- | --- |
+| [gan2x2ui](https://github.com/thomaslekieffre/gan2x2ui) | Driver Web Bluetooth pour le GAN 251 UI (smart cube 2×2), zéro dépendance |
+| [speedcubemaster-discord-rpc](https://github.com/thomaslekieffre/speedcubemaster-discord-rpc) | Discord Rich Presence — extension Chrome / Firefox + native host |
+| [speedcube-badges](https://github.com/thomaslekieffre/speedcube-badges) | Éditeur de badges animés (Vue 3 + TypeScript) |
+| [scm-cstimer-migration-lab](https://github.com/thomaslekieffre/scm-cstimer-migration-lab) | Outil de test de la migration csTimer → Speedcube Master |
 
-## 🔹 Développeur de jeux vidéo — Indie
-**2022 — Aujourd'hui**
+### Autres projets
 
-Développement de prototypes et de jeux vidéo en parallèle de mes projets web.
+| Projet | Description | Stack |
+| --- | --- | --- |
+| [Zone Tactics](https://github.com/thomaslekieffre/Zone-Tactics) · [site](https://zone-tactics.vercel.app) | Création, animation et partage de tactiques de basket pour coachs et joueurs | Next.js · Supabase · react-konva |
+| [ClipFlow](https://github.com/thomaslekieffre/ClipFlow) | Enregistrement d'écran et montage par timeline pour Windows, export MP4 | Tauri v2 · Rust · React · FFmpeg |
+| [Inazuma Draft](https://github.com/thomaslekieffre/inazuma-draft) · [site](https://ffi-6-0.vercel.app) | Jeu de draft fan-made autour d'Inazuma Eleven | Next.js · TypeScript |
+| [Rafale Ambulances](https://github.com/thomaslekieffre/rafale) · [site](https://rafaleambulances.com) | Site vitrine réalisé pour une société d'ambulances | React · Vite · Tailwind CSS |
+| [NuitDuCode 2026](https://github.com/thomaslekieffre/NuitDuCode2026-Tower-Defense) | Tower defense rétro codé en 6 h en binôme | Python · Pyxel |
+| [Portfolio](https://github.com/thomaslekieffre/mon-portfolio) · [site](https://thomaslekieffre.vercel.app) | Portfolio façon bureau d'OS : fenêtres, terminal, explorateur | Next.js · Tailwind CSS · Framer Motion |
 
-- Développement avec **Unity et C#**
-- Prototypage de mécaniques de gameplay
-- Exploration du **game design**
-- Expérimentation avec **RPG Maker MZ**
-- Exploration de l'IA appliquée aux jeux vidéo
+## 🛠️ Stack
 
-## 🔹 Créateur de contenu
-**2024 — Aujourd'hui**
+**Au quotidien**
 
-Création de contenu autour du développement, de mes projets personnels et de leur évolution.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-- 📺 [YouTube — Ici Thomas](https://www.youtube.com/@icithomas)
-- 𝕏 [X — @thomasdev59](https://x.com/thomasdev59)
+**Aussi dans la boîte à outils**
 
-# 🎓 Formation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🔹 BTS SIO — Option SLAM
-**Septembre 2026 — Juin 2028**
+**En cours d'apprentissage**
 
-Formation en alternance chez **Keeo**, spécialisée dans le développement d'applications.
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-## 🔹 Bac Général — Mathématiques & NSI
-**Septembre 2023 — Juin 2026**
+## 💼 Parcours
 
-Obtenu avec mention bien, spécialités **Mathématiques** et **Numérique et Sciences Informatiques**.
+| Période | |
+| --- | --- |
+| **2026 — 2028** | **BTS SIO option SLAM** en alternance — Développeur Fullstack chez [Keeo](https://keeo.fr/) |
+| **2026 — auj.** | **LTech Development** — micro-entreprise, prestations web et mobile |
+| **2025 — auj.** | **Speedcube Master** — conception, développement et gestion d'une équipe de 6 |
+| **2023 — 2026** | **Bac général** spécialités Mathématiques & NSI, mention bien |
+| **2020 — auj.** | Développement en autodidacte : web, mobile, jeux vidéo (Unity / C#), machine learning |
 
-## 🔹 Autodidacte
-**2020 — Aujourd'hui**
+## 📊 Activité
 
-Apprentissage continu du développement informatique principalement à travers la réalisation de projets personnels et professionnels.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=thomaslekieffre&theme=onedark&hide_border=true" alt="Série de contributions GitHub" />
+</p>
 
-# 🛠️ Compétences techniques
+## 📫 Contact
 
-- Technologies maîtrisée :
-  - HTML / CSS
-  - JavaScript / TypeScript
-  - React / Next.js
-  - SQL / PostgreSQL
-  - Python
-  - C#
-  - Unity
-  - Machine Learning
-  - Docker
-  - Linux / VPS
-  - Git / GitHub
+Ouvert aux **collaborations, projets et missions freelance**.
 
-- Technologies actuellement en apprentissage
-  - Rust
-  - Go
-  - SvelteKit
-
-
-# 🚀 Projets
-
-## Speedcube Master
-
-### Plateforme complète dédiée au speedcubing
-**2025 — Aujourd'hui**
-
-[speedcubemaster.app](https://speedcubemaster.app)
-
-**Speedcube Master (SCM)** est une plateforme dédiée aux passionnés de speedcubing. Elle regroupe des outils d'entraînement, des fonctionnalités communautaires et différents outils d'analyse autour de la pratique du Rubik's Cube.
-
-### ✨ Fonctionnalités
-
-- Timer de speedcubing
-- Base de données d'algorithmes
-- Module de training complet
-- Rooms communautaires en temps réel
-- Challenges
-- Intégration des données WCA
-- Applications **iOS et Android**
-- Internationalisation complète
-- Support des cubes connectés **GAN Bluetooth**
-- Monétisation freemium avec **Stripe**
-
-### 📈 Quelques chiffres
-
-- **+2 600 utilisateurs**
-- **+1 000 commits**
-- Équipe de **6 personnes**
-- Application en production
-
-### 🧰 Stack
-
-**Next.js · TypeScript · Supabase · Clerk · Stripe · Coolify · OVH**
-
-## ZoneTactics
-
-### Stratégies basket & coaching digital
-**2024 — Aujourd'hui**
-
-[zone-tactics.vercel.app](https://zone-tactics.vercel.app)
-
-**ZoneTactics** est un outil permettant aux **coachs et joueurs de basket** de créer, visualiser et analyser leurs tactiques.
-
-### ✨ Fonctionnalités
-
-- Création de tactiques interactives
-- Éditeur visuel
-- Organisation des stratégies
-- Interface adaptée à une utilisation moderne
-
-Le projet a bénéficié d'une **refonte en 2026**, avec notamment une migration de **Vercel Blob vers Supabase** et la suppression du système de paiement Stripe.
-
-### 🧰 Stack
-
-**Next.js · Supabase · Clerk**
-
-> 💡 **Plus de projets sont disponibles sur mon [GitHub](https://github.com/thomaslekieffre).**
->
-> Certains projets ne sont plus maintenus et peuvent être considérés comme obsolètes, mais des démonstrations, captures d'écran et vidéos sont souvent disponibles.
-
-# 🎯 Objectifs
-
-- Réussir mon **BTS SIO SLAM** et continuer à progresser grâce à mon alternance chez Keeo.
-- Faire évoluer **Speedcube Master** et développer sa communauté.
-- Expérimenter de nouvelles technologies et créer de nouveaux projets divers et variés.
-- Relancer et développer la chaîne **Ici Thomas**.
-
-# 📫 Me contacter
-
-Je suis ouvert aux **collaborations, projets et missions freelance**.
-
-- **Email :** thomas.lekieffredev@gmail.com
-- **Portfolio :** [thomaslekieffre.vercel.app](https://thomaslekieffre.vercel.app)
-- **LinkedIn :** [Thomas Lekieffre](https://www.linkedin.com/in/thomas-lekieffre-988224319/)
-- **GitHub :** [@thomaslekieffre](https://github.com/thomaslekieffre)
-- **YouTube :** [Ici Thomas](https://www.youtube.com/@icithomas)
-- **X :** [@thomasdev59](https://x.com/thomasdev59)
-
-# 📊 GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomaslekieffre&theme=onedark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslekieffre&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**[thomas.lekieffredev@gmail.com](mailto:thomas.lekieffredev@gmail.com)** · [Portfolio](https://thomaslekieffre.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thomas-lekieffre-988224319/) · [X](https://x.com/thomasdev59) · [YouTube](https://www.youtube.com/@icithomas)
